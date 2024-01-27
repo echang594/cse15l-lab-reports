@@ -10,14 +10,19 @@
 - The relevant field of the class is the string `chat` holding the chat history. It is initially the empty string `""`.
     - The first request added the first message to `chat` in the format shown in the screenshot
     - The second request added the second message to `chat` in the same way on a new line
+
 ### Part 2
 The absolute path to the private key:
+
 ![~/.ssh/id_rsa](images/lab2/private-key.png)
 
 The absolute path to the public key:
+
 ![~/.ssh/authorized_keys](images/lab2/public-key.png)
 
 Logging into my account without being asked for a password:
+
 ![Logging in without password](images/lab2/login.png)
+
 ### Part 3
 In the week 2 and week 3 labs, I learned in more detail the specific parts of a URL. I also refreshed my memory of commands that I have used before but not frequently, like `ssh` and `scp`.
